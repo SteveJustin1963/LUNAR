@@ -461,7 +461,7 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 
 ---
 
-# **TEC-1 Forth-Controlled 3D Lunar Lander Simulator on a Physical 3D Moon**
+# **TEC-1 Forth coded 3D Lunar Lander Simulator on a model 3D Moon**
 
 **Concept Summary:**
 A fully functional *physical* lunar landing simulator that merges the classic 1980s **TEC-1 Z80 single-board computer**, the iconic *Lunar Lander* algorithm from *Talking Electronics Issue 10 (p. 74)*, and a Forth-driven robotics control system.
