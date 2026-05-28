@@ -4,7 +4,7 @@ then Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desp
 https://github.com/SteveJustin1963/tec-BOOKS/blob/master/TE/Mag/talking_electronics_10.pdf
 
  
-<img width="999" height="990" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
+<img width="999" height="890" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
 
 
 
