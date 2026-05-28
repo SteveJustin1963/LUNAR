@@ -270,15 +270,15 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 └─────────────────────────────────────────────┘
             │
             ▼
-        ┌───────────────┐
-        │ LUNAKPRESS    │
-        ├───────────────┤
-        │ if (FUEL)=0 → RET       │
-        │ else:                   │
-        │   (FUEL)--              │
-        │   (VELOCITY)+=2         │
-        │   DAA both              │
-        └───────────────┘
+        ┌───────────────────┐
+        │ LUNAKPRESS        │   
+        ├───────────────────┤
+        │ if (FUEL)=0 → RET │
+        │ else:             │
+        │   (FUEL)--        │
+        │   (VELOCITY)+=2   │
+        │   DAA both        │
+        └───────────────────┘
             │
             ▼
        ┌────────────────┐
@@ -304,10 +304,10 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 └────────────────────────────┘
             │
             ▼
-┌──────────────────────────┐
-│         END / LOOP       │
+┌────────────────────────────┐
+│         END / LOOP         │
 │    “Press any key” restarts│
-└──────────────────────────┘
+└────────────────────────────┘
 ```
 
 ---
